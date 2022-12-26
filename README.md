@@ -1,3 +1,3 @@
 # Project: Landing Page
 
-https://www.theodinproject.com/lessons/foundations-landing-page
+Basic landing page website from https://www.theodinproject.com/lessons/foundations-landing-page
