@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+}
+
+.header-logo span {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-right: auto;
+}
+
+.header-links {
+    display: flex;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px;
+}
+
+.header-links a {
+    color: #E5E7Eb;
+    font-size: 18px;
+    padding: 10px;
+}
