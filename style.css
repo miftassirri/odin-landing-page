@@ -8,13 +8,12 @@ body {
 
 .header {
     display: flex;
-    color: #F9FAF8;
     background-color: #1F2937;
     padding: 20px 0px 20px 100px;
     align-items: center;
 }
 
-.header-logo span {
+.header-logo {
     color: #F9FAF8;
     font-size: 24px;
     margin-right: auto;
@@ -30,4 +29,40 @@ body {
     color: #E5E7Eb;
     font-size: 18px;
     padding: 10px;
+}
+
+.hero {
+    display: flex;
+    background-color: #1F2937;
+    padding: 90px;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.hero p {
+    color: #E5E7Eb;
+    font-size: 18px;
+}
+
+.hero button {
+    display: block;
+    text-align: center;
+    width: 110px;
+    border: none;
+    background: #3882f6;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.hero-image {
+    padding: 20px 0px 20px 100px;
 }
